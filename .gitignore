@@ -1,0 +1,4 @@
+# Build and output Folders
+db/*
+incremental_db/*
+output_files/*
